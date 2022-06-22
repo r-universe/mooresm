@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "serrsBayes"]
+	path = serrsBayes
+	url = https://github.com/mooresm/serrsbayes
+	shallow = true
+	registered = true
