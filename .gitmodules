@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bayesImageS"]
+	path = bayesImageS
+	url = https://bitbucket.org/azeari/bayesimages
+	shallow = true
+	registered = true
 [submodule "serrsBayes"]
 	path = serrsBayes
 	url = https://github.com/mooresm/serrsbayes
